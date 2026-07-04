@@ -25,5 +25,4 @@
    - [x] Query DB: mysql -u root -e "USE booking; SELECT * FROM details;" to verify insert.
    - [x] Edge cases: No selections, multiple halls, change people count.
 
-5. **Completion**
-   - [x] All steps done, update TODO.md with [x] marks.
+
