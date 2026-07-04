@@ -1,0 +1,4 @@
+com\booking\BookingApplication.class
+com\booking\repository\DetailsRepository.class
+com\booking\entity\Details.class
+com\booking\controller\BookingController.class
